@@ -2,23 +2,22 @@ package NewCoder.Sort;
 
 import java.util.Arrays;
 
-public class BubbleSort {
+public class SelectionSort {
 
     public static void main(String[] args) {
-        int[] A = {54,35,48,36,27,12,44,44,8,14,26,17,28};
-        int n = 13;
+        int[] A = {3, 2, 1, 33, 2};
         System.out.println(Arrays.toString(A));
-        System.out.println(Arrays.toString(bubbleSort(A, n)));
+        System.out.println(Arrays.toString(selectionSort(A, A.length)));
     }
 
-    public static int[] bubbleSort(int[] A, int n) {
-        if (A == null || A.length < 2) {
+    public static int[] selectionSort(int[] A, int n) {
+        if ((A == null) || A.length < 2) {
             return A;
         }
         for (int i = n; i >= 2; i--) {
-            for (int j = 0; j <= i - 2; j++) {
-                if (A[j] > A[j + 1]) {
-                    swap(A, j, j + 1);
+            for (int j = n - 1; j >= 1; j--) {
+                if (A[j] < A[j - 1]) {
+                    swap(A, j, j - 1);
                 }
             }
         }
