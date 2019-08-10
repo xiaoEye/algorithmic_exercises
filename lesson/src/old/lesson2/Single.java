@@ -1,4 +1,4 @@
-package lesson2;
+package old.lesson2;
 
 public class Single {
 
