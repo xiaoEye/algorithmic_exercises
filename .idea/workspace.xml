@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="302a3290-c8e9-47b4-96d8-0642b551e1c1" name="Default Changelist" comment="" />
+    <list default="true" id="302a3290-c8e9-47b4-96d8-0642b551e1c1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +21,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1P0RMm3M3GfRaBBmajkeo2NH4tX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -49,13 +53,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ShellSort">
-    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NewCoder.Sort.HeapSort" />
+  <component name="RunManager" selected="Application.Clear">
+    <configuration name="Clear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewCoder.Other.Clear" />
       <module name="lesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NewCoder.Sort.*" />
+          <option name="PATTERN" value="NewCoder.Other.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NewCoder.Sort.InsertionSort" />
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewCoder.Other.Game" />
       <module name="lesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NewCoder.Sort.*" />
+          <option name="PATTERN" value="NewCoder.Other.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NewCoder.Sort.MergeSort" />
+    <configuration name="HorseRace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewCoder.Other.HorseRace" />
       <module name="lesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NewCoder.Sort.*" />
+          <option name="PATTERN" value="NewCoder.Other.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NewCoder.Sort.QuickSort" />
+    <configuration name="Jump" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewCoder.Other.Jump" />
       <module name="lesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NewCoder.Sort.*" />
+          <option name="PATTERN" value="NewCoder.Other.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NewCoder.Sort.ShellSort" />
+    <configuration name="Paint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewCoder.Other.Paint" />
       <module name="lesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NewCoder.Sort.*" />
+          <option name="PATTERN" value="NewCoder.Other.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ShellSort" />
-        <item itemvalue="Application.HeapSort" />
-        <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.MergeSort" />
-        <item itemvalue="Application.InsertionSort" />
+        <item itemvalue="Application.Clear" />
+        <item itemvalue="Application.Game" />
+        <item itemvalue="Application.Jump" />
+        <item itemvalue="Application.HorseRace" />
+        <item itemvalue="Application.Paint" />
       </list>
     </recent_temporary>
   </component>
@@ -136,10 +140,25 @@
       <option name="presentableId" value="Default" />
       <updated>1565008981661</updated>
       <workItem from="1565008983013" duration="15983000" />
+      <workItem from="1565487949432" duration="5413000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
   </component>
 </project>
