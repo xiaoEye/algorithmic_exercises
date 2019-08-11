@@ -39,7 +39,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -53,7 +53,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Clear">
+  <component name="RunManager" selected="Application.InsertValueIntoCircle">
+    <configuration name="Championship" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewCoder.Probability.Championship" />
+      <module name="lesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NewCoder.Probability.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Clear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NewCoder.Other.Clear" />
       <module name="lesson" />
@@ -80,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HorseRace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NewCoder.Other.HorseRace" />
+    <configuration name="InsertValueIntoCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewCoder.LinkList.InsertValueIntoCircle" />
       <module name="lesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NewCoder.Other.*" />
+          <option name="PATTERN" value="NewCoder.LinkList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,26 +119,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Paint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NewCoder.Other.Paint" />
-      <module name="lesson" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="NewCoder.Other.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InsertValueIntoCircle" />
+        <item itemvalue="Application.Championship" />
         <item itemvalue="Application.Clear" />
         <item itemvalue="Application.Game" />
         <item itemvalue="Application.Jump" />
-        <item itemvalue="Application.HorseRace" />
-        <item itemvalue="Application.Paint" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +140,7 @@
       <option name="presentableId" value="Default" />
       <updated>1565008981661</updated>
       <workItem from="1565008983013" duration="15983000" />
-      <workItem from="1565487949432" duration="5413000" />
+      <workItem from="1565487949432" duration="8862000" />
     </task>
     <servers />
   </component>
