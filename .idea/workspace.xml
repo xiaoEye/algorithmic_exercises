@@ -53,7 +53,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InsertValueIntoCircle">
+  <component name="RunManager" selected="Application.TwoStack">
     <configuration name="Championship" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NewCoder.Probability.Championship" />
       <module name="lesson" />
@@ -106,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Jump" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NewCoder.Other.Jump" />
+    <configuration name="TwoStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewCoder.QueenAndStack.TwoStack" />
       <module name="lesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NewCoder.Other.*" />
+          <option name="PATTERN" value="NewCoder.QueenAndStack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwoStack" />
         <item itemvalue="Application.InsertValueIntoCircle" />
         <item itemvalue="Application.Championship" />
         <item itemvalue="Application.Clear" />
         <item itemvalue="Application.Game" />
-        <item itemvalue="Application.Jump" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +140,8 @@
       <option name="presentableId" value="Default" />
       <updated>1565008981661</updated>
       <workItem from="1565008983013" duration="15983000" />
-      <workItem from="1565487949432" duration="20049000" />
+      <workItem from="1565487949432" duration="23176000" />
+      <workItem from="1565825006775" duration="2516000" />
     </task>
     <servers />
   </component>
@@ -152,7 +153,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
