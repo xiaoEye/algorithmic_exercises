@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="302a3290-c8e9-47b4-96d8-0642b551e1c1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/src/NewCoder/QueenAndStack/StackReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/src/NewCoder/QueenAndStack/StackReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/src/NewCoder/QueenAndStack/TwoStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/src/NewCoder/QueenAndStack/TwoStack.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TwoStack">
+  <component name="RunManager" selected="Application.StackReverse">
     <configuration name="Championship" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NewCoder.Probability.Championship" />
       <module name="lesson" />
@@ -80,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NewCoder.Other.Game" />
+    <configuration name="InsertValueIntoCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewCoder.LinkList.InsertValueIntoCircle" />
       <module name="lesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NewCoder.Other.*" />
+          <option name="PATTERN" value="NewCoder.LinkList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertValueIntoCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NewCoder.LinkList.InsertValueIntoCircle" />
+    <configuration name="StackReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewCoder.QueenAndStack.StackReverse" />
       <module name="lesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NewCoder.LinkList.*" />
+          <option name="PATTERN" value="NewCoder.QueenAndStack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StackReverse" />
         <item itemvalue="Application.TwoStack" />
         <item itemvalue="Application.InsertValueIntoCircle" />
         <item itemvalue="Application.Championship" />
         <item itemvalue="Application.Clear" />
-        <item itemvalue="Application.Game" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +143,7 @@
       <updated>1565008981661</updated>
       <workItem from="1565008983013" duration="15983000" />
       <workItem from="1565487949432" duration="23176000" />
-      <workItem from="1565825006775" duration="2516000" />
+      <workItem from="1565825006775" duration="4725000" />
     </task>
     <servers />
   </component>
