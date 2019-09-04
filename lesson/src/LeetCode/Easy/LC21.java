@@ -82,7 +82,9 @@ public class LC21 {
     public static void printLink(ListNode head) {
         while (head != null) {
             System.out.print(head.val);
-            System.out.print("->");
+            if (head.next != null) {
+                System.out.print("->");
+            }
             head = head.next;
         }
         System.out.println();
