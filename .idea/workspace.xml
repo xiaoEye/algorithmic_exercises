@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="302a3290-c8e9-47b4-96d8-0642b551e1c1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson/src/LeetCode/Easy/LC21.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/src/LeetCode/Easy/LC21.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,13 +53,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LC19">
-    <configuration name="LC1022" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Easy.LC1022" />
+  <component name="RunManager" selected="Application.LC142">
+    <configuration name="LC141" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Easy.LC141" />
       <module name="lesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.Middle.*" />
+          <option name="PATTERN" value="LeetCode.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Easy.LC14" />
+    <configuration name="LC142" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Middle.LC142" />
       <module name="lesson" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LC142" />
+        <item itemvalue="Application.LC141" />
         <item itemvalue="Application.LC19" />
         <item itemvalue="Application.LC876" />
         <item itemvalue="Application.LC21" />
-        <item itemvalue="Application.LC14" />
-        <item itemvalue="Application.LC1022" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +142,7 @@
       <workItem from="1565008983013" duration="15983000" />
       <workItem from="1565487949432" duration="23176000" />
       <workItem from="1565825006775" duration="21836000" />
-      <workItem from="1567566508885" duration="3774000" />
+      <workItem from="1567566508885" duration="7761000" />
     </task>
     <servers />
   </component>
