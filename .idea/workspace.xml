@@ -53,7 +53,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LC142">
+  <component name="RunManager" selected="Application.LC92">
     <configuration name="LC141" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.Easy.LC141" />
       <module name="lesson" />
@@ -93,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Easy.LC21" />
+    <configuration name="LC206" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Easy.LC206" />
       <module name="lesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.Middle.*" />
+          <option name="PATTERN" value="LeetCode.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC876" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Middle.LC876" />
+    <configuration name="LC92" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Middle.LC92" />
       <module name="lesson" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LC92" />
+        <item itemvalue="Application.LC206" />
         <item itemvalue="Application.LC142" />
         <item itemvalue="Application.LC141" />
         <item itemvalue="Application.LC19" />
-        <item itemvalue="Application.LC876" />
-        <item itemvalue="Application.LC21" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +142,7 @@
       <workItem from="1565008983013" duration="15983000" />
       <workItem from="1565487949432" duration="23176000" />
       <workItem from="1565825006775" duration="21836000" />
-      <workItem from="1567566508885" duration="7761000" />
+      <workItem from="1567566508885" duration="12634000" />
     </task>
     <servers />
   </component>
