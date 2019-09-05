@@ -1,6 +1,7 @@
-.idea
-.idea/workspace.xml
 out
-.idea/workspace.xml
-.idea
 workspace.xml
+target/
+.idea/
+.settings/
+.classpath
+.project
