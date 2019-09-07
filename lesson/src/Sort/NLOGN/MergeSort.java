@@ -1,4 +1,4 @@
-package Sort.BinarySearch;
+package Sort.NLOGN;
 
 import java.util.Arrays;
 
