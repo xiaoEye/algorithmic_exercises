@@ -54,13 +54,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LC8">
-    <configuration name="FindFirstLarge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sort.BinarySearch.FindFirstLarge" />
+  <component name="RunManager" selected="Application.LC429">
+    <configuration name="BuildTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sort.Tree.BuildTree" />
       <module name="lesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sort.BinarySearch.*" />
+          <option name="PATTERN" value="Sort.Tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,34 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindLastSmall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sort.BinarySearch.FindLastSmall" />
-      <module name="lesson" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Sort.BinarySearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LC151" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Middle.LC151" />
-      <module name="lesson" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode.Middle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LC344" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Easy.LC344" />
+    <configuration name="LC429" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Easy.LC429" />
       <module name="lesson" />
       <extension name="coverage">
         <pattern>
@@ -107,12 +81,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Middle.LC8" />
+    <configuration name="LayerSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sort.Tree.LayerSort" />
       <module name="lesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.Middle.*" />
+          <option name="PATTERN" value="Sort.Tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PreAndInAndPostOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sort.Tree.PreAndInAndPostOrder" />
+      <module name="lesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sort.Tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sort.Tree.PrintTree" />
+      <module name="lesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sort.Tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LC8" />
-        <item itemvalue="Application.LC151" />
-        <item itemvalue="Application.LC344" />
-        <item itemvalue="Application.FindLastSmall" />
-        <item itemvalue="Application.FindFirstLarge" />
+        <item itemvalue="Application.LC429" />
+        <item itemvalue="Application.LayerSort" />
+        <item itemvalue="Application.PreAndInAndPostOrder" />
+        <item itemvalue="Application.BuildTreeAndPrint" />
+        <item itemvalue="Application.PrintTree" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +143,7 @@
       <workItem from="1565008983013" duration="15983000" />
       <workItem from="1565487949432" duration="23176000" />
       <workItem from="1565825006775" duration="21836000" />
-      <workItem from="1567566508885" duration="56241000" />
+      <workItem from="1567566508885" duration="65110000" />
     </task>
     <servers />
   </component>
@@ -165,16 +165,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/lesson/src/LeetCode/Middle/LC8.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="47" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
