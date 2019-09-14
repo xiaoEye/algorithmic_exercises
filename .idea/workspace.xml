@@ -54,9 +54,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LC98">
+  <component name="RunManager" selected="Application.LC204">
+    <configuration name="LC204" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Easy.LC204" />
+      <module name="lesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.Easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LC429" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.Easy.LC429" />
+      <module name="lesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.Easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Easy.LC7" />
       <module name="lesson" />
       <extension name="coverage">
         <pattern>
@@ -81,32 +107,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LayerSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sort.Tree.LayerSort" />
-      <module name="lesson" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Sort.Tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PreAndInAndPostOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sort.Tree.PreAndInAndPostOrder" />
-      <module name="lesson" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Sort.Tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TreeHigh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sort.Tree.TreeHigh" />
       <module name="lesson" />
@@ -122,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LC204" />
+        <item itemvalue="Application.LC7" />
         <item itemvalue="Application.LC98" />
         <item itemvalue="Application.TreeHigh" />
         <item itemvalue="Application.LC429" />
-        <item itemvalue="Application.LayerSort" />
-        <item itemvalue="Application.PreAndInAndPostOrder" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +143,8 @@
       <workItem from="1565008983013" duration="15983000" />
       <workItem from="1565487949432" duration="23176000" />
       <workItem from="1565825006775" duration="21836000" />
-      <workItem from="1567566508885" duration="69033000" />
+      <workItem from="1567566508885" duration="70223000" />
+      <workItem from="1568087952502" duration="4401000" />
     </task>
     <servers />
   </component>
