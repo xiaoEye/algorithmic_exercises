@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="302a3290-c8e9-47b4-96d8-0642b551e1c1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/src/LeetCode/Easy/LC21_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/src/LeetCode/Easy/LC21_1.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LC160">
+  <component name="RunManager" selected="Application.LC83">
     <configuration name="LC160" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.Easy.LC160" />
       <module name="lesson" />
@@ -94,6 +95,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LC83" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Easy.LC83" />
+      <module name="lesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.Easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LC98" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.Middle.LC98" />
       <module name="lesson" />
@@ -107,26 +121,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeHigh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sort.Tree.TreeHigh" />
-      <module name="lesson" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Sort.Tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LC83" />
         <item itemvalue="Application.LC160" />
         <item itemvalue="Application.LC204" />
         <item itemvalue="Application.LC7" />
         <item itemvalue="Application.LC98" />
-        <item itemvalue="Application.TreeHigh" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +146,7 @@
       <workItem from="1565825006775" duration="21836000" />
       <workItem from="1567566508885" duration="70223000" />
       <workItem from="1568087952502" duration="4591000" />
-      <workItem from="1568451148684" duration="4663000" />
+      <workItem from="1568451148684" duration="9433000" />
     </task>
     <servers />
   </component>
