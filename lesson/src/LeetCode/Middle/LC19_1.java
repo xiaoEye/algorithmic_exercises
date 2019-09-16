@@ -14,17 +14,17 @@ public class LC19_1 {
 
         ListNode prev = new ListNode(-1);
         prev.next = head;
-        ListNode i = prev;
-        ListNode j = prev;
-        while (i != null && j != null) {
-            j = j.next;
+        ListNode slow = prev;
+        ListNode fast = prev;
+        while (fast != null) {
+            fast = fast.next;
             if (n == -1) {
-                i = i.next;
+                slow = slow.next;
             } else {
                 n--;
             }
         }
-        i.next = i.next.next;
+        slow.next = slow.next.next;
 
         return prev.next;
     }
