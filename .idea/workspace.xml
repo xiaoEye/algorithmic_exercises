@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="302a3290-c8e9-47b4-96d8-0642b551e1c1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson/src/LeetCode/Middle/LC19_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/src/LeetCode/Middle/LC19_1.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,9 +54,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LC24">
-    <configuration name="LC160" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Easy.LC160" />
+  <component name="RunManager" selected="Application.LC328">
+    <configuration name="LC234" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Easy.LC234" />
       <module name="lesson" />
       <extension name="coverage">
         <pattern>
@@ -69,21 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC204" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Easy.LC204" />
-      <module name="lesson" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode.Easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LC24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Middle.LC24" />
+    <configuration name="LC328" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Middle.LC328" />
       <module name="lesson" />
       <extension name="coverage">
         <pattern>
@@ -95,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Easy.LC7" />
+    <configuration name="LC725" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Middle.LC725" />
       <module name="lesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.Easy.*" />
+          <option name="PATTERN" value="LeetCode.Middle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +94,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC83" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Easy.LC83" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.tmp.Main" />
       <module name="lesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.Easy.*" />
+          <option name="PATTERN" value="LeetCode.tmp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.temp.Main" />
+      <module name="lesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.temp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LC24" />
-        <item itemvalue="Application.LC83" />
-        <item itemvalue="Application.LC160" />
-        <item itemvalue="Application.LC204" />
-        <item itemvalue="Application.LC7" />
+        <item itemvalue="Application.LC328" />
+        <item itemvalue="Application.LC725" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.LC234" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +145,7 @@
       <workItem from="1565825006775" duration="21836000" />
       <workItem from="1567566508885" duration="70223000" />
       <workItem from="1568087952502" duration="4591000" />
-      <workItem from="1568451148684" duration="12025000" />
+      <workItem from="1568451148684" duration="20374000" />
     </task>
     <servers />
   </component>
