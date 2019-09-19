@@ -60,7 +60,7 @@
       <module name="lesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.Middle.*" />
+          <option name="PATTERN" value="LeetCode.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,7 +99,7 @@
       <module name="lesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.Middle.*" />
+          <option name="PATTERN" value="LeetCode.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,7 +145,7 @@
       <workItem from="1565825006775" duration="21836000" />
       <workItem from="1567566508885" duration="70223000" />
       <workItem from="1568087952502" duration="4591000" />
-      <workItem from="1568451148684" duration="41068000" />
+      <workItem from="1568451148684" duration="45616000" />
     </task>
     <servers />
   </component>
