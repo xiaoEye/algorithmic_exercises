@@ -2,9 +2,9 @@ package Concurrent.Test;
 
 public class Test {
 
-    private static String name;
+    private String age = "xiao";
 
-    public void test() {
-        System.out.println("test");
+    public String getAge() {
+        return age;
     }
 }
