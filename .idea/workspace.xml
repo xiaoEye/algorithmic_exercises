@@ -2,16 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="302a3290-c8e9-47b4-96d8-0642b551e1c1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson/src/Concurrent/Test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/src/Concurrent/Test/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson/src/Concurrent/Test/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson/src/Concurrent/Test/TestSon.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -84,6 +96,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Concurrent.Test.Main" />
+      <module name="lesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Concurrent.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.Easy.Main" />
       <module name="lesson" />
@@ -140,7 +165,6 @@
       <list>
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.AccountMain" />
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Main" />
       </list>
@@ -161,7 +185,8 @@
       <workItem from="1565825006775" duration="21836000" />
       <workItem from="1567566508885" duration="70223000" />
       <workItem from="1568087952502" duration="4591000" />
-      <workItem from="1568451148684" duration="62765000" />
+      <workItem from="1568451148684" duration="66113000" />
+      <workItem from="1569561153675" duration="7823000" />
     </task>
     <servers />
   </component>
@@ -194,5 +219,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/algorithmic_exercises$Main__1_.ic" NAME="Main (1) Coverage Results" MODIFIED="1569591093401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Concurrent.Test.*</FILTER>
+    </SUITE>
   </component>
 </project>
