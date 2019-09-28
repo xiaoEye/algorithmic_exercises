@@ -50,6 +50,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -68,7 +69,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.LC739_imp">
     <configuration name="AccountMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Concurrent.ReentrantLockTest.AccountMain" />
       <module name="lesson" />
@@ -82,12 +83,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC572" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Easy.LC572" />
+    <configuration name="LC20_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Easy.LC20_1" />
       <module name="lesson" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LeetCode.Easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC739_imp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Middle.LC739_imp" />
+      <module name="lesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.Middle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,19 +115,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Concurrent.Test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Easy.Main" />
-      <module name="lesson" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,10 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LC739_imp" />
+        <item itemvalue="Application.LC20_1" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.AccountMain" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
