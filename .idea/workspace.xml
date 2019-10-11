@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="302a3290-c8e9-47b4-96d8-0642b551e1c1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/src/Concurrent/Test/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/src/Concurrent/Test/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiao.hhh" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,13 +82,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LC744">
-    <configuration name="LC435" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Middle.LC435" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Concurrent.Test.Client" />
       <module name="lesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.Middle.*" />
+          <option name="PATTERN" value="Concurrent.Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,19 +102,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LeetCode.Middle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LC461" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Easy.LC461" />
-      <module name="lesson" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,6 +128,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LeetCode.Easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Concurrent.Test.Main" />
+      <module name="lesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Concurrent.Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Client" />
         <item itemvalue="Application.LC744" />
         <item itemvalue="Application.LC69_1" />
         <item itemvalue="Application.LC452" />
-        <item itemvalue="Application.LC435" />
-        <item itemvalue="Application.LC461" />
       </list>
     </recent_temporary>
   </component>
@@ -226,6 +230,11 @@
           <url>file://$PROJECT_DIR$/lesson/src/Concurrent/ReentrantLockTest/AccountMain.java</url>
           <line>6</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/util/LinkedList.java</url>
+          <line>560</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
